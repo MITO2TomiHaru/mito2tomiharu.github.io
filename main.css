@@ -1,5 +1,16 @@
 ﻿@charset "UTF-8";
-a {color:white}
+
+body {
+
+    background-color: #68BE8D; 
+    color:black;
+    
+}
+
+body a{
+
+    color: #6600ff;
+}
 
 a {font-family:"bahnschrift","MS UI Gothic"}
 h1 {
@@ -8,11 +19,12 @@ h1 {
 
 .headder {
     position: relative;
-    margin:0 auto;
-    text-align:center;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .headder img{
+
 width:100%;
 
 }
@@ -27,3 +39,8 @@ width:100%;
     transform: translate(-50%,-50%);
     
 }
+
+.headder a{
+    color:white;
+}
+
