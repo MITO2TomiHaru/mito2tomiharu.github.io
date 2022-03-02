@@ -1,3 +1,8 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 a {color:slateblue}
 .headimage {width:50%;}
+
+a {font-family:"bahnschrift","MS UI Gothic"}
+h1 {
+    font-family: "bahnschrift","MS gothic";
+}
