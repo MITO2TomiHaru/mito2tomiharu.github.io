@@ -1,4 +1,4 @@
-﻿@charset "utf-8";
+﻿@charset "UTF-8";
 a {color:white}
 
 a {font-family:"bahnschrift","MS UI Gothic"}
@@ -7,15 +7,14 @@ h1 {
 }
 
 .headder {
-
-    width:100%;
-    position:relative;
-
+    position: relative;
+    margin:0 auto;
+    text-align:center;
 }
 
 .headder img{
-    width:100%;
-    height:auto;
+width:100%;
+
 }
 
 .headder p{
