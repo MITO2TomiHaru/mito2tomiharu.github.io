@@ -4,17 +4,17 @@ body {
 
     background-color: #68BE8D; 
     color:black;
-    
+    font-size:16px;
 }
 
 body a{
 
-    color: #6600ff;
+    color: white;
 }
 
-a {font-family:"bahnschrift","MS UI Gothic"}
+a {font-family:"bahnschrift","MS UI Gothic","sans-serif"}
 h1 {
-    font-family: "bahnschrift","MS gothic";
+    font-family: "bahnschrift","MS gothic","sans-serif";
 }
 
 .headder {
@@ -44,3 +44,60 @@ width:100%;
     color:white;
 }
 
+.blogtitles {
+    
+    width:740px;
+    display:block;
+
+    background-color:#7EBEAB;
+    
+    margin-top:10px;
+
+    margin:0 auto;
+
+
+}
+
+.blogtitle {
+
+    width:720px;
+    height:150px;
+
+    background-color:#47885E;
+
+    margin:0 auto;
+    
+}
+
+.blogtitle h2{
+
+    color:white;
+
+}
+
+.blog {
+    
+    width: 1000px;
+    display: flex;
+    background-color: #47885E;
+    margin:0 auto;
+
+}
+
+.side {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 250px;
+    height: 400px;
+    background-color: #7EBEAB;
+
+    position:sticky;
+}
+
+.article {
+
+    margin-top:10px;
+    margin-left:10px;
+    width: 720px;
+    background-color: #CCFFE5;
+}
