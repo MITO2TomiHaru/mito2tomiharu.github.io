@@ -26,6 +26,7 @@ h1 {
 .headder img{
 
 width:100%;
+min-width:1000px;
 
 }
 
@@ -52,20 +53,16 @@ width:100%;
     background-color:#7EBEAB;
 
     margin:0 auto;
-
+  
 
 }
 
 .blogtitle {
+    width: 720px;
+    height: 150px;
+    background-color: #47885E;
+    margin-left:10px;
 
-    width:720px;
-    height:150px;
-
-    background-color:#47885E;
-
-    margin:0 auto;
-    margin-top:10px;
-    
 }
 
 .blogtitle h2{
@@ -86,6 +83,7 @@ width:100%;
 .side {
     margin-top: 10px;
     margin-left: 10px;
+    margin-bottom:10px;
     width: 250px;
     height: 400px;
     background-color: #7EBEAB;
@@ -97,6 +95,7 @@ width:100%;
 
     margin-top:10px;
     margin-left:10px;
+    margin-bottom:10px;
     width: 720px;
     background-color: #CCFFE5;
 }
