@@ -12,10 +12,16 @@ body a{
     color: white;
 }
 
-a {font-family:"bahnschrift","MS UI Gothic","sans-serif"}
-h1 {
+body a {font-family:"bahnschrift","MS UI Gothic","sans-serif"}
+body h1 {
     font-family: "bahnschrift","MS gothic","sans-serif";
 }
+body h2 {
+        font-family: "bahnschrift","MS gothic","sans-serif";
+    }
+    body p {
+        font-family: "sans-serif","MS Gothic","Bahnschrift";
+    }
 
 .headder {
     position: relative;
