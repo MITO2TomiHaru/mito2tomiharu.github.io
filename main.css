@@ -14,13 +14,13 @@ body a{
 
 body a {font-family:"bahnschrift","MS UI Gothic","sans-serif"}
 body h1 {
-    font-family: "bahnschrift","MS gothic","sans-serif";
+    font-family: "bahnschrift","MS UI gothic","sans-serif";
 }
 body h2 {
-        font-family: "bahnschrift","MS gothic","sans-serif";
+        font-family: "bahnschrift","MS UI gothic","sans-serif";
     }
     body p {
-        font-family: "sans-serif","MS Gothic","Bahnschrift";
+        font-family: "MS UI Gothic","sans-serif","Bahnschrift";
     }
 
 .headder {
@@ -94,7 +94,8 @@ min-width:1000px;
     height: 400px;
     background-color: #7EBEAB;
 
-    position:sticky;
+    position: sticky;
+    top:10px;
 }
 
 .article {
