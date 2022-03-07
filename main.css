@@ -54,6 +54,7 @@ min-width:1000px;
 .blogtitles {
     
     width:740px;
+
     display:block;
 
     background-color:#7EBEAB;
@@ -67,13 +68,17 @@ min-width:1000px;
     width: 720px;
     height: 150px;
     background-color: #47885E;
-    margin-left:10px;
-
+    margin-left: 10px;
+    margin-top: 10px;
 }
 
 .blogtitle h2{
 
     color:white;
+
+}
+.blogtitle p{
+    color:#E0E0E0;
 
 }
 
